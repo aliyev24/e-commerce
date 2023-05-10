@@ -11,6 +11,6 @@ _ _ _ _ _ _ _ _ _ _ _
 - [x] **PayPal** payment integration
 - [x] Shopping Cart
 - [x] **Search** for products
-- [x] Sending email **Notifications**(discount offer)
+- [x] Sending **Email Notifications**(discount offer)
 - [x] Total Cart price calculation
 - [x] **Unit Testing** 
