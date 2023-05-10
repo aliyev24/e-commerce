@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Main</title>
+</head>
+<body>
+{%for cart in carts%}
+<ul>
+    <li>Total: {{cart.total}}</li>
+
+    <li>User id: {{cart.user}}   </li>
+    
+    {%for product in cart.product.all%}
+    <li>{{product.name}} </li>
+
+    {%endfor%}
+    
+</ul>
+
+{%endfor%}
+</body>
+</html>

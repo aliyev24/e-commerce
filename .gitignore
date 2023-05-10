@@ -1,0 +1,18 @@
+# created by virtualenv automatically
+.idea
+idea
+.DS_Store
+
+__pycache__
+db.sqlite3
+/venv
+shop/.env
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
+
+
+
+
+celerybeat-schedule.*
