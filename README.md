@@ -10,10 +10,11 @@ _ _ _ _ _ _ _ _ _ _ _
 ### Features
 - [x] **PayPal** payment integration
 - [x] Shopping Cart
+- [x] Adding products to Cart
 - [x] **Search** for products
-- [x] Sending **Email Notifications**(discount offer)
+- [x] Sending email notifications to users
 - [x] Total Cart price calculation
-- [x] **Unit Testing**
+- [x] Unit Testing
 
 _ _ _ _ _ _ _ _ _ _ _
 ### Installation
