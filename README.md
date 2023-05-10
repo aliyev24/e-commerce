@@ -13,3 +13,4 @@ _ _ _ _ _ _ _ _ _ _ _
 - [x] **Search** for products
 - [x] Sending email **Notifications**(discount offer)
 - [x] Total Cart price calculation
+- [x] **Unit Testing** 
