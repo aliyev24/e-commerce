@@ -8,8 +8,8 @@
 ![PayPal](https://img.shields.io/badge/-PayPal-00457C?logo=paypal&logoColor=white&style=flat-square)
 _ _ _ _ _ _ _ _ _ _ _ 
 ### Features
-- [x] **PayPal** payment
+- [x] **PayPal** payment integration
 - [x] Shopping Cart
-- [x] **Search**
-- [x] Email **Notifications**(discount offer)
-- [x] Total Cart price calculation 
+- [x] **Search** for products
+- [x] Sending email **notifications**(discount offer)
+- [x] Total Cart price calculation
