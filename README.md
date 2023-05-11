@@ -6,6 +6,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![PayPal](https://img.shields.io/badge/-PayPal-00457C?logo=paypal&logoColor=white&style=flat-square)
+
+E-commerce with categories, products, shooping cart and payment.
 _ _ _ _ _ _ _ _ _ _ _ 
 ### Features
 - [x] **PayPal** payment integration
@@ -14,8 +16,6 @@ _ _ _ _ _ _ _ _ _ _ _
 - [x] **Search** for products
 - [x] Sending email notifications to users
 - [x] Total Cart price calculation
-- [x] Categories
-- [x] Products
 - [x] Unit Testing
 
 _ _ _ _ _ _ _ _ _ _ _
