@@ -8,8 +8,10 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![PayPal](https://img.shields.io/badge/-PayPal-00457C?logo=paypal&logoColor=white&style=flat-square) </div>
-_ _ _ _ _ _ _ _ _ _ _
+
 E-commerce with categories, products, shooping cart and payment.
+
+_ _ _ _ _ _ _ _ _ _ _
 
 ### Features
 - [x] **PayPal** payment integration
@@ -19,6 +21,15 @@ E-commerce with categories, products, shooping cart and payment.
 - [x] Sending email notifications to users
 - [x] Total Cart price calculation
 - [x] Unit Testing
+
+_ _ _ _ _ _ _ _ _ _ _
+### Tech Stack
+- [x] Django REST
+- [x] Docker
+- [x] Postgres
+- [x] Celery
+- [x] Redis
+- [x] Python 
 
 _ _ _ _ _ _ _ _ _ _ _
 ### Installation
