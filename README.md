@@ -14,6 +14,8 @@ _ _ _ _ _ _ _ _ _ _ _
 - [x] **Search** for products
 - [x] Sending email notifications to users
 - [x] Total Cart price calculation
+- [x] Categories
+- [x] Products
 - [x] Unit Testing
 
 _ _ _ _ _ _ _ _ _ _ _
