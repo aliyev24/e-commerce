@@ -8,7 +8,7 @@
 ![PayPal](https://img.shields.io/badge/-PayPal-00457C?logo=paypal&logoColor=white&style=flat-square)
 
 E-commerce with categories, products, shooping cart and payment.
-_ _ _ _ _ _ _ _ _ _ _ 
+
 ### Features
 - [x] **PayPal** payment integration
 - [x] Shopping Cart
